@@ -21,7 +21,7 @@ var (
 )
 
 func main() {
-	inputFilePath := "battlecat.png"
+	inputFilePath := "img.png"
 
 	file, err := os.Open(inputFilePath)
 	if err != nil {
