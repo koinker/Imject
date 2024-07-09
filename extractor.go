@@ -1,3 +1,5 @@
+//todo encrypt payload before injection, decrypt at execution
+
 package main
 
 import (
